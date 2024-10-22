@@ -8,5 +8,5 @@
 
 ### Presentations
 
-[Monte Carlo Transport Computational Summit-Kickoff](LA-UR-32563)
-[Implicit Monte Carlo at LANL-Progress and Challenges](LA-UR-32613)
+[Monte Carlo Transport Computational Summit-Kickoff](LA-UR-32563.pdf)
+[Implicit Monte Carlo at LANL-Progress and Challenges](LA-UR-32613.pdf)
